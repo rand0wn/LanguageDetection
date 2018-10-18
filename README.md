@@ -67,6 +67,14 @@ Using Bi-RNN with LSTM Cell for language detection.
 
 Evaluation of all the three models on Fellowship.ai custom dataset.
 
+### Classification Accuracy
+
     * MNB(Sklearn) ACC:  0.9707093359216391 , 
     * Keras BI-RNN ACC:  0.9718167850969849
     * TF BI-RNN Accuracy: 0.9703284
+
+### F1 Score
+
+    * MNB(Sklearn) ACC:  0.9707093359216391 , 
+    * Keras BI-RNN ACC:  0.9720171125440312
+    * TF BI-RNN Accuracy: 0.9705131168450581
